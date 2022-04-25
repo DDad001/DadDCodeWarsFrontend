@@ -1,0 +1,74 @@
+.backgroundColor{
+    background-color: #303133;
+    max-height: auto;
+    min-height: 100vh;
+}
+
+.logo{
+    height: 8vmin;
+}
+
+.whiteFont1{
+    color: #FFFFFF;
+    font-size: 13px;
+}
+.whiteFont2{
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+.ButtonStyle{
+    background-color: #1B78D1;
+    font-weight: 600;
+    width:100px;
+}
+.ButtonStyle2{
+    background-color: #1B78D1;
+    font-weight: 600;
+    width:150px;
+    height: 5vh;
+}
+
+.inputWidth{
+    width: 300px;;
+}
+.kataSearchBar{
+    height:50px;
+}
+.searchButton{
+    height:50px;
+    width: 100%;
+    margin-top: 6px;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+.curveRadius{
+    border-radius: 10px;
+}
+
+.whiteFontjustFont{
+    color: #FFFFFF;
+}
+
+.toastBg{
+    /* //opacity: 100% !important; */
+    background-color: rgba(255, 255, 255, 0.8) !important;
+}
+.customColor{
+    background-color: rgb(19,128,92) !important;
+}
+.RedToast{
+background-color: rgb(202,36,45) !important;
+}
+
+.mt-Custom{
+    margin-top: 20vh !important;
+}
+
+.CustomWidth{
+    width: 30vw !important;
+}
+
+
+
